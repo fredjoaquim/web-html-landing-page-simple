@@ -15,5 +15,3 @@ Landing page simples focada em estrutura e clareza visual.
 - Estrutura semântica
 - Responsividade básica
 
-## 📷 Preview
-![Preview](./assets/preview.png)
